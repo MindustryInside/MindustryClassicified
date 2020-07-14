@@ -2,9 +2,8 @@
 Have you ever wanted to play Mindustry, but was dissatisfied with how much 5.0 changed compared to 3.5? Then this mod is for you!
 
 ## Features
-  - Blocks become un-blueified and downscaled to 8x8
-  - For the first time, 4.0 assets without the blue!
-  - Conveyors don't have beautiful edges anymore
+  - Every block is now pixelated.
+  - Forgotten blocks return!
   
 And in the experimental branch,
   - an attempt to replicate 3.5 gameplay.
