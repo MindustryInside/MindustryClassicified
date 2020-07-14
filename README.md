@@ -17,6 +17,6 @@ See [CONTRIBUTING](CONTRIBUTING.md).
 The source code must be compressed into a .zip file. I recommend using 7z.
 
 ## Downloads
-Mindustry on Steam: BasedUser/MindustryClassicified
+Mindustry on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2165646242
 
 [Github](https://github.com/BasedUser/MindustryClassicified/releases) 
