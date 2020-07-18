@@ -11,10 +11,10 @@ And in the experimental branch,
 Hope you enjoy this mod, as I have making it!
 
 ## Contributing
-See [CONTRIBUTING](CONTRIBUTING.md).
+See [CONTRIBUTING](CONTRIBUTING.md). \# TODO this
 
 ## Building
-The source code must be compressed into a .zip file. I recommend using 7z.
+The source code must be compressed into a .zip file.
 
 ## Downloads
 Mindustry on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2165646242
