@@ -1,5 +1,5 @@
 # Mindustry Classicified
-[![Mindustry](https://img.shields.io/badge/Mindustry-v5.0%20b103.0%2B%20%7C%20v6.0%20b105.0%2B-ffd37f)](https://github.com/Anuken/Mindustry/releases)
+[![Mindustry](https://img.shields.io/badge/Mindustry-5.0%20%7C%206.0-ffd37f)](https://github.com/Anuken/Mindustry/releases)
 [![License](https://img.shields.io/github/license/BasedUser/MindustryClassicified)](LICENSE.md)
 
 Have you ever wanted to play Mindustry, but was dissatisfied with how much 5.0 changed compared to 3.5?  
