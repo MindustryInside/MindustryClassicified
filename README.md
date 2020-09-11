@@ -2,7 +2,8 @@
 [![Mindustry](https://img.shields.io/badge/Mindustry-v5.0%20b103.0%2B%20%7C%20v6.0%20b105.0%2B-ffd37f)](https://github.com/Anuken/Mindustry/releases)
 [![License](https://img.shields.io/github/license/BasedUser/MindustryClassicified)](LICENSE.md)
 
-Have you ever wanted to play Mindustry, but was dissatisfied with how much 5.0 changed compared to 3.5? Then this mod is **for you**!
+Have you ever wanted to play Mindustry, but was dissatisfied with how much 5.0 changed compared to 3.5?  
+Then this mod is **for you**!
 
 It is maintained by [BasedUser](https://github.com/BasedUser) and [Felix Corvus](https://github.com/Remint32)
 
@@ -21,6 +22,3 @@ Hope you enjoy this mod, as we have making it!
 
 ## Contributing
 See [CONTRIBUTING](CONTRIBUTING.md) file for more details.
-
-## Building
-The source code must be compressed into a .zip file.
