@@ -11,13 +11,14 @@ It is maintained by [BasedUser](https://github.com/BasedUser) and [Felix Corvus]
 ### 5.0: [![GitHub Pre-Releases](https://img.shields.io/github/downloads-pre/BasedUser/MindustryClassicified/v1.1-alpha/total?label=Classicified%20v1.1-alpha&logo=github)](https://github.com/BasedUser/MindustryClassicified/releases/tag/v1.1-alpha) [![Steam Downloads](https://img.shields.io/steam/downloads/2165646242?label=Download%20from%20Steam&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2165646242)
 ### 6.0: [![Mindustry 6.0 download](https://img.shields.io/badge/Classicified%20WIP-download-red?style=flat&logo=github)](https://github.com/BasedUser/MindustryClassicified/archive/6.0.zip)
 
-## Features
+## Overview
   - Every block is now pixelated.
   - Forgotten blocks return!
   
 And in the experimental branch,
   - an attempt to replicate 3.5 gameplay.
 
+All new/modified blocks are carefully redrawn with full respect for the original style, palette, and using old sprites.  
 Hope you enjoy this mod, as we have making it!
 
 ## Contributing
