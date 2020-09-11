@@ -8,7 +8,7 @@ Then this mod is **for you**!
 It is maintained by [BasedUser](https://github.com/BasedUser) and [Felix Corvus](https://github.com/Remint32)
 
 ## Downloads
-### 5.0: [![GitHub Pre-Releases](https://img.shields.io/github/downloads-pre/BasedUser/MindustryClassicified/v1.1-alpha/total?label=Classicified%20v1.1-alpha&logo=github)](https://github.com/BasedUser/MindustryClassicified/releases/tag/v1.1-alpha) [![Steam Downloads](https://img.shields.io/steam/downloads/2165646242?label=Download%20from%20Steam&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2165646242)
+### 5.0: [![GitHub Pre-Releases](https://img.shields.io/github/downloads-pre/BasedUser/MindustryClassicified/v1.1.0-alpha/total?label=Classicified%20v1.1.0-alpha&logo=github)](https://github.com/BasedUser/MindustryClassicified/releases/tag/v1.1-alpha) [![Steam Downloads](https://img.shields.io/steam/downloads/2165646242?label=Download%20from%20Steam&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2165646242)
 ### 6.0: [![Mindustry 6.0 download](https://img.shields.io/badge/Classicified%20WIP-download-red?style=flat&logo=github)](https://github.com/BasedUser/MindustryClassicified/archive/6.0.zip)
 
 ## Overview
