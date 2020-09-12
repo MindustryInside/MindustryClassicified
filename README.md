@@ -27,6 +27,7 @@ We do not provide pre-packaged releases as main, because we use a rolling model 
 And in the experimental branch,
   - an attempt to replicate 3.5 gameplay.
 
+***
 All new/modified blocks are carefully redrawn with full respect for the original style, palette, and using old sprites.  
 Hope you enjoy this mod, as we have making it!
 
