@@ -18,7 +18,7 @@ It is maintained by [BasedUser](https://github.com/BasedUser) and [Felix Corvus]
 [![4.0-style GitHub 6.0 download](https://img.shields.io/badge/Mindustry%20v6.0%20DOWNLOAD-branch%3A4.0--style%2F6.0-green?style=flat&logo=github)](https://github.com/BasedUser/MindustryClassicified/archive/4.0-style/6.0.zip)
 
 ### Releases
-We do not provide pre-packaged releases as main, because we use a rolling model - just [download the zip archive](https://github.com/BasedUser/MindustryClassicified#downloads) of the necessary branch (mindustry version & art style) using github.
+We do not provide pre-packaged releases as main, because we use a rolling model & and no build required - just [download the zip archive](https://github.com/BasedUser/MindustryClassicified#downloads) of the necessary branch (mindustry version & art style) using github.
 
 ## Overview
   - Every block is now pixelated.
