@@ -8,7 +8,7 @@ Then this mod is **for you**!
 It is maintained by [BasedUser](https://github.com/BasedUser) and [Felix Corvus](https://github.com/Remint32)
 
 ## Downloads
-### 3.5-style (Primary) - WIP [for 6.0 ~75%](https://github.com/BasedUser/MindustryClassicified/issues)
+### 3.5-style (Primary) - WIP [for 6.0 ~80%](https://github.com/BasedUser/MindustryClassicified/issues)
 [![3.5-style GitHub 5.0 download](https://img.shields.io/badge/Classicified%20for%205.0-master-green?style=flat&logo=github)](https://github.com/BasedUser/MindustryClassicified/archive/master.zip "Download for Mindustry 5.0") [![3.5-style GitHub 6.0 download](https://img.shields.io/badge/Classicified%20for%206.0-6.0-green?style=flat&logo=github)](https://github.com/BasedUser/MindustryClassicified/archive/6.0.zip "Download for Mindustry 6.0") [![3.5-style Steam Download](https://img.shields.io/steam/downloads/2165646242?label=Steam&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2165646242 "Download from Steam [Outdated]") <sup><sup>***outdated***</sup></sup>
 
 ### 4.0-style (Secondary) - WIP
