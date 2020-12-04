@@ -27,7 +27,7 @@ require("Pal");
 // TODO: custom shaders
 
 Events.on(EventType.ClientLoadEvent, cons(() => {
-	Log.info("[accent]Mindustry Classicified [white]initialised");
+	Log.info("[accent]Mindustry Classicified [white]initialized");
 }));
 
 })();
