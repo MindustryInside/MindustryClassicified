@@ -1,8 +1,9 @@
 {
 	"name": "classicified",
 	"displayName": "Mindustry Classicified",
-	"author": "BasedUser, Felix Corvus",
+	"author": "BasedUser, Félix Córvus",
 	"description": "Reverts sprites to as early as b40.",
-	"version": "1.1",
+	"version": "1.4",
+	"minGameVersion": "105",
 	"hidden": true
 }
