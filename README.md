@@ -1,14 +1,14 @@
 # **THE PROJECT IS LOOKING FOR A NEW REGULAR MAINTAINER!**
 
 # Mindustry Classicified
-[![Mindustry 5.0 | 6.0](https://img.shields.io/badge/Mindustry-5.0%20%7C%206.0-ffd37f)](https://github.com/Anuken/Mindustry/releases) [![License GPLv3](https://img.shields.io/github/license/BasedUser/MindustryClassicified)](LICENSE.md)
+[![Mindustry 5.0 | 6.0](https://img.shields.io/badge/Mindustry-5.0%20%7C%206.0-ffd37f)](https://github.com/Anuken/Mindustry/releases) [![License GPLv3](https://img.shields.io/github/license/BasedUser/MindustryClassicified)](LICENSE)
 
 Have you ever wanted to play Mindustry, but was dissatisfied with how much 5.0 changed compared to 3.5?  
 Then this mod is **for you**!
 
 It is maintained by [BasedUser](https://github.com/BasedUser) & [Félix Córvus](https://github.com/Remint32)
 
-![preview pic](https://github.com/BasedUser/MindustryClassicified/blob/master/preview.png "\"Crumbling City\" by Flor3nce2456")
+![Preview Picture](preview.png "\"Crumbling City\" by Flor3nce2456")
 
 ## Downloads
 ### 3.5-style (Primary) - WIP [for 6.0 ~80%](https://github.com/BasedUser/MindustryClassicified/issues)
