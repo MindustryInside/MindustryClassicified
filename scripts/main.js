@@ -26,6 +26,9 @@ require("Pal");
 //Log.info("[accent]Mindustry Classicified [white]init: fluid shaders overriding...");
 // TODO: custom shaders
 
+Log.info("[accent]Mindustry Classicified [white]init: patching content...");
+require("content")
+
 Events.on(EventType.ClientLoadEvent, cons(() => {
 	Log.info("[accent]Mindustry Classicified [white]initialized");
 }));
